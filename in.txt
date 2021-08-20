@@ -1,0 +1,6 @@
+Circulo,7.15
+Retangulo,2.00,8.59
+Circulo,5.29
+Retangulo,3.5,8.6
+Circulo,8.29
+Retangutlo,4.24,6.14
